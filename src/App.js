@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and welcom to upload.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Apprendre React
         </a>
       </header>
     </div>
@@ -25,6 +25,9 @@ function App() {
 export default App;
 
 
+
+
+
 // git init
 // git add .
 // git commit - m "Initial commit"
@@ -32,10 +35,12 @@ export default App;
 // git branch - M main
 // git push - u origin main
 
+// npm install--force
 
 
 
-// git add.  # Ajoute tous les fichiers modifiés
+
+// git add .  # Ajoute tous les fichiers modifiés
 // git commit - m "Description de la modification"  # Fait un commit avec un message descriptif
 // git push origin main  # Pousse les modifications vers GitHub sur la branche principale(main)
 
@@ -46,3 +51,8 @@ export default App;
 // npm install netlify - cms - app--force
 // npm install netlify - cms - app--legacy - peer - deps
 
+
+
+git add .  # Ajoute tous les fichiers modifiés
+git commit -m "Description de la modification"  # Fait un commit avec un message descriptif
+git push origin main  # Pousse les modifications vers GitHub sur la branche principale(main)
