@@ -54,8 +54,8 @@ export default App;
 
 
 
-// npm install netlify - cms - app--force
-// npm install netlify - cms - app--legacy - peer - deps
+// npm install netlify-cms-app --force
+// npm install netlify-cms-app --legacy-peer-deps
 
 
 
