@@ -39,9 +39,15 @@ export default App;
 
 
 
+// rm yarn.lock
+// rm -rf node_modules
+// yarn install
+
+
+
 
 // git add .  # Ajoute tous les fichiers modifiés
-// git commit - m "Description de la modification"  # Fait un commit avec un message descriptif
+// git commit -m "Description de la modification"  # Fait un commit avec un message descriptif
 // git push origin main  # Pousse les modifications vers GitHub sur la branche principale(main)
 
 
@@ -53,6 +59,22 @@ export default App;
 
 
 
-git add .  # Ajoute tous les fichiers modifiés
-git commit -m "Description de la modification"  # Fait un commit avec un message descriptif
-git push origin main  # Pousse les modifications vers GitHub sur la branche principale(main)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// git add .  # Ajoute tous les fichiers modifiés
+// git commit -m "Description de la modification"  # Fait un commit avec un message descriptif
+// git push origin main  # Pousse les modifications vers GitHub sur la branche principale(main)
